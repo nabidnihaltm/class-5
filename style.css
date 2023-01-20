@@ -1,0 +1,144 @@
+ /* *{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+} */
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color:  gainsboro;
+    text-transform: capitalize;
+}
+.imge{
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid rgba(55,73,187,.03);
+}
+.product{
+    position: absolute;
+    top: 15px;
+}
+.discount_tag{
+    background-color: #6e2594;
+    /* font-size: 14px; */
+    width: 75%;
+    line-height: 14px;
+    color: white;
+    font-weight: 300;
+    padding: 5px 15px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    border-radius: 0 20px 20px 0;
+
+}
+
+.product_details{
+    padding: 15px 15px 0;
+
+}
+
+.product_name{
+            margin: 0 0 10px;
+            overflow: hidden;
+            line-height: 20px;
+            height: auto;
+            position: relative;
+}
+
+.product_name a{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+.product_item{
+    padding: 10px 0 0 10px;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 5px;
+}
+
+.product_price{
+    text-align: center;
+    padding: 5px 5px 10px 5px;
+    color: #ef4a23;
+    font-size: 20px;
+    /* font-weight: 600;
+    line-height: 22px;
+     */
+}
+
+.product_action{
+        padding: 5px ;
+        /* line-height: 100%; */
+        /* width: 100%; */
+}
+
+.product_action .buy{
+    text-align: center;
+    padding: 5px 0;
+    /* width: 100%; */
+    display: block;
+    color: #3749bb;
+    font-size: 20px;
+    margin: 0 20px;
+    /* border: 1px solid black; */
+    /* cursor: pointer; */
+    /* font-weight: 600;
+    line-height: 10px; */
+    background-color: #cbdeea;
+    border-radius: 5px;
+    
+
+}
+.product_action .compare{
+    text-align: center;
+    padding: 5px 0;
+    display: block;
+    font-size: 20px;
+    margin: 0 20px;
+    background-color: #cbdeea;
+    border-radius: 5px;
+    color: rgb(37, 21, 21);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.product{
+    background-color: white;
+    width: 25%;   
+
+}
+  
+
+
+
